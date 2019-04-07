@@ -23,11 +23,10 @@ etiqueta usada la el pie de la página contiene la información del estudiante ,
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/a.png)
        (ima/a.png)
        
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/m.png)
+       
+      
 
 C.	La evidencia de la validación de cada página HTML. 
 
