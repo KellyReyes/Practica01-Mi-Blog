@@ -37,8 +37,8 @@ C.	La evidencia de la validación de cada página HTML.
 
 
 
-  instagram.html
-  instagram.html cuenta con la estructura:
+     instagram.html
+     instagram.html cuenta con la estructura:
 
 header >   dentro de esta etiqueta se cuenta con :
 
@@ -67,8 +67,8 @@ C.	La evidencia de la validación de cada página HTML.
 
 
 
-  snapchat.html
-  snapchat.html cuenta con la estructura:
+      snapchat.html
+     snapchat.html cuenta con la estructura:
 
 header >   dentro de esta etiqueta se cuenta con :
 
@@ -94,8 +94,8 @@ C.	La evidencia de la validación de cada página HTML.
 
 
 
- twitter.html
-twitter.html cuenta con la estructura:
+    twitter.html
+    twitter.html cuenta con la estructura:
 
 header >   dentro de esta etiqueta se cuenta con :
 
