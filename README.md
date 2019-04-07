@@ -23,8 +23,10 @@ etiqueta usada la el pie de la página contiene la información del estudiante ,
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/1.PNG)
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/13.PNG)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/1.png
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/1.png)
+       
+       https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/13.png)
 
 C.	La evidencia de la validación de cada página HTML. 
 
@@ -51,8 +53,8 @@ Etiqueta usada la el pie de la página contiene la información del estudiante, 
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/12.PNG)
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/2.PNG)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/12.png)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/2.png)
 
 C.	La evidencia de la validación de cada página HTML. 
 
@@ -79,8 +81,8 @@ Etiqueta usada la el pie de la página contiene la información del estudiante, 
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/3.PNG)
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/4.PNG)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/3.png)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/4.png)
 
 C.	La evidencia de la validación de cada página HTML. 
 
@@ -105,8 +107,8 @@ Etiqueta usada la el pie de la página contiene la información del estudiante, 
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/5.PNG)
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/6.PNG)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/5.png)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/6.png)
 
 C.	La evidencia de la validación de cada página HTML.
 
@@ -130,8 +132,8 @@ Etiqueta usada la el pie de la página contiene la información del estudiante, 
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/7.PNG)
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/8.PNG
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/7.png)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/8.png
 
 C.	La evidencia de la validación de cada página HTML.
 
@@ -185,9 +187,9 @@ Etiqueta usada la el pie de la página contiene la información del estudiante, 
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/9.PNG)
-       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/10.PNG
-        (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/11.PNG)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/9.png)
+       (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/10.png
+        (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/11.png)
 
 C.	La evidencia de la validación de cada página HTML.
 
