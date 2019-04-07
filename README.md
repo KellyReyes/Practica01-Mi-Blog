@@ -7,11 +7,11 @@ DESARROLLO DE LAS PAGINAS HTML.
 
 header    dentro de esta etiqueta se cuenta con :
 
-<a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo)
+la etiquta a <a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo)
 
 section dentro de esta etiqueta se cuenta con :
 
-  header    que contiene la imagen de Facebook que la obtenemos de la carpeta imágenes ,con el elemento img de la etiqueta a><img src="../imagenes/rd_foto1.jpg" alt="facebook"/></a>. También tenemos un <article> dentro de ella está  la etiqueta. 
+  header    que contiene la imagen de Facebook que la obtenemos de la carpeta imágenes ,con el elemento img de la etiqueta a><img src="../imagenes/rd_foto1.jpg" alt="facebook"/></a>. También tenemos un article> dentro de ella está  la etiqueta. 
              iframe src="https://www.youtube.com/embed/LukKasucvao"
             width="560" height="315"></iframe> que nos permite  colar un video en la página atreves de una url.
 También dentro de la etiqueta article> se encuentra la información a presentar .Usando las etiquetas h2> ¿QUE  ES  FACEBOOK  ?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta p>.
