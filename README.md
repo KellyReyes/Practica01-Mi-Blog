@@ -7,7 +7,7 @@ DESARROLLO DE LAS PAGINAS HTML.
 
 header    dentro de esta etiqueta se cuenta con :
 
-la etiquta a <a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo)
+la etiqueta a <a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo)
 
 section dentro de esta etiqueta se cuenta con :
 
@@ -42,11 +42,11 @@ C.	La evidencia de la validación de cada página HTML.
 
 header >   dentro de esta etiqueta se cuenta con :
 
-a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo)
+la etiqueta  a <a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo)
 
 section>  dentro de esta etiqueta se cuenta con :
 
-  header >   que contiene la imagen de Instagram que la obtenemos de la carpeta imágenes ,con el elemento img de la etiqueta    a><img src="../imagenes/rd_foto3.jpg" alt="instagram"/></a>.También tenemos un article> dentro de está etiqueta se encuentra la información a presentar .Usando las etiquetas h2> ¿QUE ES INSTAGRAM ?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta p>.
+  header >   que contiene la imagen de Instagram que la obtenemos de la carpeta imágenes ,con el elemento img de la etiqueta    a><img src="../imagenes/rd_foto3.jpg" alt="instagram"/></a>.También tenemos un article> dentro de está etiqueta se encuentra la información a presentar .Usando las etiquetas h2 <h2> ¿QUE ES INSTAGRAM ?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta p>.
 
 footer>  dentro de esta etiqueta se cuenta con :
 
@@ -72,11 +72,11 @@ C.	La evidencia de la validación de cada página HTML.
 
 header >   dentro de esta etiqueta se cuenta con :
 
-<a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo).
+la etiqueta a <a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo).
 
 section>  dentro de esta etiqueta se cuenta con :
 
-  header >   que contiene la imagen de snapchat que la obtenemos de la carpeta imágenes ,con el elemento de la etiqueta   <a><img src="../imagenes/rd_foto5.jpg" alt="snapchat"/></a>.También tenemos un article> dentro de esta etiqueta se encuentra la información a presentar .Usando las etiquetas h2> ¿QUE ES SANPCHAT?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta p>.
+  header >   que contiene la imagen de snapchat que la obtenemos de la carpeta imágenes ,con el elemento de la etiqueta  a <a><img src="../imagenes/rd_foto5.jpg" alt="snapchat"/></a>.También tenemos un article> dentro de esta etiqueta se encuentra la información a presentar .Usando las etiquetas h2> ¿QUE ES SANPCHAT?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta p>.
 
 footer>  dentro de esta etiqueta se cuenta con :
 
@@ -99,7 +99,7 @@ twitter.html cuenta con la estructura:
 
 header >   dentro de esta etiqueta se cuenta con :
 
-<a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo).
+la etiqueta a <a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo).
 
 section>  dentro de esta etiqueta se cuenta con :
 
@@ -120,16 +120,16 @@ C.	La evidencia de la validación de cada página HTML.
 (https://github.com/KellyReyes/Practica01-Mi-Blog/blob/master/ima/twi.PNG)
 
 
-whatsapp.html
-whatsapp.html cuenta con la estructura:
+     whatsapp.html
+    whatsapp.html cuenta con la estructura:
 
 header >   dentro de esta etiqueta se cuenta con :
 
-<a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo).
+la etiqueta a<a href="index.html"><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a>   esto nos llevara a la   página principal al momento que pulsemos sobre la imagen (logo).
 
 section>  dentro de esta etiqueta se cuenta con :
 
-  header >   que contiene la imagen de whatsapp que la obtenemos de la carpeta imágenes ,con el elemento de la etiqueta  <a><img src="../imagenes/rd_foto2.jpg" alt="whatsappr"/></a>.También tenemos un <article> dentro de esta etiqueta se encuentra la información a presentar .Usando las etiquetas <h2> ¿QUE ES WHATSAPP?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta <p>.
+  header >   que contiene la imagen de whatsapp que la obtenemos de la carpeta imágenes ,con el elemento de la etiqueta  <a><img src="../imagenes/rd_foto2.jpg" alt="whatsappr"/></a>.También tenemos un article> dentro de esta etiqueta se encuentra la información a presentar .Usando las etiquetas h2 <h2> ¿QUE ES WHATSAPP?</h2> para presentar los títulos y para los párrafos utilizamos la etiqueta p>.
 
 footer>  dentro de esta etiqueta se cuenta con :
 
@@ -152,11 +152,11 @@ C.	La evidencia de la validación de cada página HTML.
 
 header >   dentro de esta etiqueta se cuenta con :
 
-Con el elemento  img  de la etiqueta <a><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a contiene la imagen logo de la página principal que la obtenemos de la carpeta imágenes.
+Con el elemento  img  de la etiqueta a <a><img src="../imagenes/rd_logo.jpg" alt="redes sociales"/></a contiene la imagen logo de la página principal que la obtenemos de la carpeta imágenes.
 
 nav> dentro de esta etiqueta se cuenta con :
 
-Con la etiqueta  nos ofrece un menú de navegación, la etiqueta <a href="facebook.html"><img src="../imagenes/rd_foto1.jpg" alt="Facebook" /></a> con el elemento href  nos permite indicar la url de la página que nos debe llevar.
+Con la etiqueta  nos ofrece un menú de navegación, la etiqueta  a <a href="facebook.html"><img src="../imagenes/rd_foto1.jpg" alt="Facebook" /></a> con el elemento href  nos permite indicar la url de la página que nos debe llevar.
 
 ul>  dentro de esta etiqueta se cuenta con :
 
