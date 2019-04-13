@@ -1,20 +1,14 @@
 
 
-
-
-
 #menuprincipal{
     
-    border-width: thin 10px;
-    border-width: unset;
-    border-style: groove;
+    
     float: left;width: 20%;
-    background-color: rgb(148, 237, 243);
     
     
-
     
 }
+
 
     #contenido{
         text-align: justify;
@@ -22,25 +16,13 @@
         margin-right: 10px;
         padding-left: 10px;
         padding-right: 10px;
-        border-width: thick;
-        border-style: unset;
-        background-color: rgb(148, 237, 243);
         float: left;width: 75%;
         margin-bottom: 10px;
         
 
     }
 
-   
-   #fin{
-   
-   
-    margin-right: 30px;
-    border-style: groove;
-    background-color: aquamarine ;
-
-   }
-  
+    
    
 
 

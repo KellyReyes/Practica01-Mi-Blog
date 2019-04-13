@@ -16,7 +16,27 @@
    
     clear: both;
     margin-right: 30px;
-    border-style: groove;
-    background-color: aquamarine ;
+  
 
    }
+
+.ubicaciontexto{
+    text-align: right;
+}
+
+.colorinstagram{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgb(148, 237, 243);
+
+} 
+.colorfacebook{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgba(156, 122, 132, 0.959);
+
+} 
