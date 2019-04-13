@@ -64,8 +64,29 @@
     background-color: rgba(116, 77, 100, 0.658);
 
 } 
+
 .colormenu{
 
-    color: black;
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    
+    background-color:chartreuse
 
-} 
+}
+.colorarticulo{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color:skyblue
+
+}
+.coloranexos{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color:rgba(116, 77, 100, 0.658)
+
+}
