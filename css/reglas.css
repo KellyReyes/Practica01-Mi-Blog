@@ -1,0 +1,22 @@
+
+#imgtamaño{
+    width: 500px;
+    height: 300px;;
+   }
+.posicionimg{
+    
+ text-align: center;
+
+    }
+
+.tamañotexto{
+    font-size: x-large ;
+   }
+#finpagina{
+   
+    clear: both;
+    margin-right: 30px;
+    border-style: groove;
+    background-color: aquamarine ;
+
+   }
