@@ -37,6 +37,14 @@
     border-width: thin 10px;
     border-width: unset;
     border-style: groove;
-    background-color: rgba(156, 122, 132, 0.959);
+    background-color: darkseagreen ;
+
+} 
+.colorsnapchat{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgba(228, 159, 102, 0.658);
 
 } 
